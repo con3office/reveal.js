@@ -182,7 +182,10 @@ body {
 .reveal table td {
   text-align: left;
   padding: 0.2em 0.5em 0.2em 0.5em;
-  border-bottom: 1px solid; }
+  font-size: 0.6em;
+  border: 1px solid;
+  border-top: 0px solid;
+}
 
 .reveal table th[align="center"],
 .reveal table td[align="center"] {
