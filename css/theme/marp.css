@@ -197,7 +197,8 @@ body {
 
 .reveal table tbody tr:last-child th,
 .reveal table tbody tr:last-child td {
-  border-bottom: none; }
+/*  border-bottom: none; */
+}
 
 .reveal sup {
   vertical-align: super;
